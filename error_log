@@ -1,0 +1,2 @@
+[11-Nov-2012 06:46:33] PHP Fatal error:  Call to a member function userdata() on a non-object in /home1/eugenest/public_html/whoyoumeet/beta/application/libraries/twconnect.php on line 80
+[11-Nov-2012 07:21:12] PHP Parse error:  syntax error, unexpected '{', expecting '&' or T_VARIABLE in /home1/eugenest/public_html/whoyoumeet/beta/application/controllers/welcome.php on line 21
